@@ -22,8 +22,8 @@ def get_data():
     return result.json()
 
 # Wi-Fi connection
-SSID = ':)'          # Replace with your Wi-Fi SSID
-PASSWORD = 'k1e2tc4hSauce16'  # Replace with your Wi-Fi password
+SSID = 'YOUR WIFI NAME'          # Replace with your Wi-Fi SSID
+PASSWORD = 'YOUR WIFI PASSWORD'  # Replace with your Wi-Fi password
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
 wlan.connect(SSID, PASSWORD)

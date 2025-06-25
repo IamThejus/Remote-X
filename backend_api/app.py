@@ -10,7 +10,7 @@ def get_code():
 # Initialize Firebase
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://universal-remote-db-default-rtdb.firebaseio.com/'  # ← replace with your URL
+    'databaseURL': 'https://firebaseio.com/'  # ← replace with your URL
 })
 
 app = Flask(__name__)
