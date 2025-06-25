@@ -1,0 +1,21 @@
+# Firebase secret file (NEVER track this)
+backend_api/serviceAccountKey.json
+
+# Flutter build files
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode or IntelliJ
+.vscode/
+.idea/
+
+# macOS/Windows system files
+.DS_Store
+Thumbs.db
