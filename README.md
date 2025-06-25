@@ -17,9 +17,11 @@
 
 ## 📸 App Preview
 
-<img src="images/app_screenshot1.jpg" alt="App Screenshot" width="180"/>
-<img src="images/app_screenshot2.jpg" alt="App Screenshot" width="180"/>
-<img src="images/app_screenshot3.jpg" alt="App Screenshot" width="180"/>
+<p align="center">
+  <img src="images/app_screenshot1.jpg" alt="App Screenshot 1" width="180" style="margin-right: 10px;"/>
+  <img src="images/app_screenshot2.jpg" alt="App Screenshot 2" width="180" style="margin-right: 10px;"/>
+  <img src="images/app_screenshot3.jpg" alt="App Screenshot 3" width="180"/>
+</p>
 
 ---
 
