@@ -15,6 +15,26 @@
 
 ---
 
+## 📸 App Preview
+
+<img src="images/app_screenshot1.png" alt="App Screenshot" width="300"/>
+<img src="images/app_screenshot1.png" alt="App Screenshot" width="300"/>
+<img src="images/app_screenshot1.png" alt="App Screenshot" width="300"/>
+
+---
+
+## 🔌 Hardware Setup
+
+<img src="images/breadboard_setup.jpg" alt="Pico Breadboard Setup" width="500"/>
+
+---
+
+## 📊 Circuit Diagram
+
+<img src="images/circuit_schematic.png" alt="Circuit Schematic" width="500"/>
+
+---
+
 ## 📂 Project Structure
 ```
 remote-x/
