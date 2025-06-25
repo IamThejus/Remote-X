@@ -1,4 +1,4 @@
-# 📡 Remote-X
+# 🕹️ Remote-X
 
 **Remote-X** is an open-source universal remote system that combines Flutter, Firebase, and Raspberry Pi Pico to control IR-based devices (like ACs, TVs, etc.). The project aims to provide a smart, flexible, and customizable IR remote system that works across platforms.
 
