@@ -17,6 +17,8 @@
 
 ## 📸 App Preview
 
+https://github.com/user-attachments/assets/b4b76b26-e785-44b5-b832-1c96592262e9
+
 <p align="center">
   <img src="images/app_screenshot1.jpg" alt="App Screenshot 1" width="180" style="margin-right: 10px;"/>
   <img src="images/app_screenshot2.jpg" alt="App Screenshot 2" width="180" style="margin-right: 10px;"/>
