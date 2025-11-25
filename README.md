@@ -17,11 +17,12 @@
 
 ## 📸 App Preview
 
-### Working Demo Videos
+### 🎥 Working Demo Videos
+
 <p align="center">
-  <video src="[VIDEO_1_URL](https://github.com/user-attachments/assets/01ca05ed-27d0-4154-9a2b-35ede12971f9
-)" width="400" controls></video>
-  <video src="[VIDEO_2_URL](https://github.com/user-attachments/assets/08b1f46d-35b3-43d4-834c-34411738b593)" width="400" controls></video>
+  <video src="https://github.com/user-attachments/assets/01ca05ed-27d0-4154-9a2b-35ede12971f9" width="400" controls></video>
+  <br /><br />
+  <video src="https://github.com/user-attachments/assets/08b1f46d-35b3-43d4-834c-34411738b593" width="400" controls></video>
 </p>
 
 <p align="center">
