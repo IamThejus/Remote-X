@@ -19,11 +19,18 @@
 
 ### 🎥 Working Demo Videos
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/01ca05ed-27d0-4154-9a2b-35ede12971f9" width="400" controls></video>
-  <br /><br />
-  <video src="https://github.com/user-attachments/assets/08b1f46d-35b3-43d4-834c-34411738b593" width="400" controls></video>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Demo Video 1</h3>
+      <video src="https://github.com/user-attachments/assets/01ca05ed-27d0-4154-9a2b-35ede12971f9" height="450" controls></video>
+    </td>
+    <td align="center" width="50%">
+      <h3>Demo Video 2</h3>
+      <video src="https://github.com/user-attachments/assets/08b1f46d-35b3-43d4-834c-34411738b593" height="450" controls></video>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="images/app_screenshot1.jpg" alt="App Screenshot 1" width="180" style="margin-right: 10px;"/>
