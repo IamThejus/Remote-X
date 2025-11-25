@@ -128,5 +128,3 @@ This project is licensed under the MIT License — see LICENSE for details.
 * Remote learning via IR receiver
 * Native app builds (iOS/Android)
 
-🙌 Credits
-Built with ❤️ by @IamThejus
