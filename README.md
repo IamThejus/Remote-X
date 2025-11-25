@@ -17,8 +17,16 @@
 
 ## 📸 App Preview
 
-### 🎥 Working Demo Videos
+<!-- Screenshots (Left aligned) -->
+<p align="left">
+  <img src="images/app_screenshot1.jpg" alt="App Screenshot 1" width="180"/>
+  <img src="images/app_screenshot2.jpg" alt="App Screenshot 2" width="180"/>
+  <img src="images/app_screenshot3.jpg" alt="App Screenshot 3" width="180"/>
+</p>
 
+---
+
+<!-- Videos (Two-column layout) -->
 <table>
   <tr>
     <td align="center" width="50%">
@@ -31,12 +39,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="images/app_screenshot1.jpg" alt="App Screenshot 1" width="180" style="margin-right: 10px;"/>
-  <img src="images/app_screenshot2.jpg" alt="App Screenshot 2" width="180" style="margin-right: 10px;"/>
-  <img src="images/app_screenshot3.jpg" alt="App Screenshot 3" width="180"/>
-</p>
 
 ---
 
